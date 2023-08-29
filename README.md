@@ -18,12 +18,11 @@ To support a data-based business decision, they are looking for suggestions and 
 3) Are we storing items that are not moving? Are any items candidates for being dropped from the product line?
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-## Tables are produced using SQL
+Tables are produced using SQL
 
 Quantity of All items in warehouse
 
 | warehouseCode | quantityInStock|   
-
 |---------------|----------------|   
 | a	| 131688 |
 | b	| 219183 |
