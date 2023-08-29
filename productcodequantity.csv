@@ -1,4 +1,4 @@
-productcode,quantityinstock,sum(orderdetails.quantityordered),avg(orderdetails.priceeach),warehousecode,ordertotal
+productcode,quantityinstock,quantityordered,priceeach,warehousecode,ordertotal
 S18_3232,8347,1808,152.342830,b,275435.836980
 S12_1108,3619,1019,187.096667,b,190651.503333
 S10_1949,7305,961,197.309286,b,189614.223571
