@@ -79,5 +79,29 @@ Amount of product in stock vs amount ordered
 As you can see in the table above, for most products the quantity in stock eclipses the quantity ordered by many times. Only 10% of products have a quantity in stock that is less thant the total amount **<ins>ever**</ins> ordered. I believe you can reduce the inventory of most items significantly. Since the dataset has the total sales for 3 years I believe that reducing the current inventory to an ammount equal to 172% the the total sales should last roughly for 3 years. That number comes from the total sales plus a 20% year over year growth rate. For the few items that have a quantity in stock that is in the bottom 10%, I recommend that they are all imediately raised to at least 25% of their lifetime sales so there is no risk of running out of stock in the short term; and for the long term increase quantity in stock to the same 172% of total sales as everything else.
 
 
+recentorderdatesforproducts
+|productcode|	mostrecentorderdate|
+|-----------|--------------------|
+|S10_1678|	2005-05-13|
+|S10_1949|	2005-05-31|
+|S10_2016|	2005-05-13|
+|S10_4698|	2005-05-13|
+|S10_4757|	2005-05-06|
+|S10_4962|	2005-05-31|
+|S12_1099|	2005-05-17|
+|S12_1108|	2005-05-05|
+|S12_1666|	2005-05-31|
+|S12_2823	|2005-05-13|
+|S12_3148|	2005-05-05|
+|S12_3380|	2005-05-17|
+|S12_3891	|2005-05-05|
+|S12_3990|	2005-05-17|
+|S12_4473|	2005-05-31|
+|....|   |
+
+Every product has been ordered at least once within the last month of the dataset so it doesnt seem that any product needs to be removed. 
+
+
+
 
 
