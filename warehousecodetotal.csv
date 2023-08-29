@@ -1,5 +1,5 @@
-warehousecode,"sum(orderdetails.quantityordered)* avg(orderdetails.priceeach)"
-b,3843015.238239
-a,2069141.216525
-c,1796940.172525
-d,1869942.476449
+warehousecode, totalorderedprice
+b,3843015.24
+a,2069141.22
+c,1796940.17
+d,1869942.48
