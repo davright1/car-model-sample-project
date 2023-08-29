@@ -32,10 +32,11 @@ Quantity of All items in warehouse
 Total amount ordered by each warehouse
 
 | warehousecode| totalpriceordered |
-| b | 3,843,015.24|
-| a | 2,069,141.22|
-| c | 1,796,940.17| 
-| d | 1,869,942.48|
+|---------------|------------------|
+| b | 3,843,015.24 |
+| a | 2,069,141.22 |
+| c | 1,796,940.17 | 
+| d | 1,869,942.48 |
 
 
 Based on the quantity in stock for each warehouse, D is the best candidate to eliminate. Warehouse D has the least inventory and has the second to least amount of product ordered. I recommend moving products from  warehouse D, to warehouses A and C. Splitting the product between warehouses A and C will get them closer to the capacity and production that warehouse B is at, thus allowing you to cease operations at warehouse D. 
