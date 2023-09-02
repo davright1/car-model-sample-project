@@ -42,9 +42,7 @@ Total amount ordered by each warehouse
 Based on the quantity in stock for each warehouse, D is the best candidate to eliminate. Warehouse D has the least inventory and has the second to least amount of product ordered. I recommend moving products from  warehouse D, to warehouses A and C. Splitting the product between warehouses A and C will get them closer to the capacity and production that warehouse B has, thus allowing you to cease operations at warehouse D. 
 ### Considerations
 - Warehouse D contains trucks, trains, buses, and ships. These larger items require more space.
-- How removing a warehouse will affect delivery time.
-- The capacity of the warehouses.
-
+- Removing a warehouse may affect delivery time.
 Amount of product in stock vs amount ordered
 | productcode	| quantityinstock |	quantityordered |
 |-------------|-----------------|-----------------|
