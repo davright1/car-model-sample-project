@@ -43,6 +43,7 @@ Based on the quantity in stock for each warehouse, D is the best candidate to el
 ### Considerations
 - Warehouse D contains trucks, trains, buses, and ships. These larger items require more space.
 - Removing a warehouse may affect delivery time.
+  
 Amount of product in stock vs amount ordered
 | productcode	| quantityinstock |	quantityordered |
 |-------------|-----------------|-----------------|
